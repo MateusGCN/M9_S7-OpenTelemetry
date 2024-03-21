@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v+LHCWMwoXw7Ijunm+iYWR5dFquk5csl5IE9USAT6HE=",
+  "Source": "M9_S7-OpenTelemetry",
+  "BasePath": "_content/M9_S7-OpenTelemetry",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

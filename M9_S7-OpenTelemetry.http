@@ -1,0 +1,6 @@
+@M9_S7_OpenTelemetry_HostAddress = http://localhost:5023
+
+GET {{M9_S7_OpenTelemetry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
