@@ -29,4 +29,10 @@ A implementação seguiu as etapas descritas no artigo, com a instrumentação d
 2. Adição de instrumentação para coleta de dados de telemetria.
 3. Configuração do Prometheus para coleta de métricas.
 
-![image](./images/imagen1.png)
+
+   
+## PROMETHEUS
+![image](./images/image1.png)
+
+## APLICAÇÃO RODANDO
+![image](./images/image2.png)
